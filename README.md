@@ -18,9 +18,6 @@ bashCopy code
 
 Run the script `global_sustainable_energy_map.py` to visualize the global trends in sustainable energy. The script utilizes Plotly for creating an animated choropleth map.
 
-bashCopy code
-
-`python global_sustainable_energy_map.py`
 
 Code Overview
 -------------
